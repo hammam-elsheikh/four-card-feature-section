@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL]https://himo-dev-four-card-feature-section.netlify.app/
+- [Live Site URL](https://himo-dev-four-card-feature-section.netlify.app/)
 
 ### Built with
 
